@@ -59,9 +59,10 @@ public class Menu {
 				}
 			}
 			int confirmacao = JOptionPane.showConfirmDialog(null, "Deseja continuar?");
-			System.out.println(confirmacao);
-			if(confirmacao != 0)
+			if (confirmacao != 0) {
+				JOptionPane.showMessageDialog(null, "Programa Finalizado.");
 				rodaPrograma = false;
+			}
 		}
 	}
 }
