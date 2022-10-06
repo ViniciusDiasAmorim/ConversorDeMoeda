@@ -2,4 +2,11 @@
 
 ## Sobre o Projeto
 
+Esta aplicaçao foi realizada para o Challenge do Programa ONE da Oracle, esta e uma aplicaçao construida em Java e ela realiza a conversao de moedas e temperatura
+
 ## Imagens do projeto
+
+
+## Melhorias para o projeto
+
+- Implementar consumo de API's para obter os valores das moedas, e converte - las em tempo real.
