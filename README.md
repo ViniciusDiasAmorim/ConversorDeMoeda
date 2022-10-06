@@ -4,7 +4,9 @@
 
 Esta aplicaçao foi realizada para o Challenge do Programa ONE da Oracle, esta e uma aplicaçao construida em Java e ela realiza a conversao de moedas e temperatura
 
-## Imagens do projeto
+## Projeto
+
+![Inicio da pagina](https://github.com/ViniciusDiasAmorim/ViniciusDiasAmorim/blob/main/src/conversorIlustracao/ConversorAnimacao.gif)
 
 
 ## Melhorias para o projeto
